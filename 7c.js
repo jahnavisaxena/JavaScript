@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function greet(name='there'){
                 console.log(`hello ${name}`);
             }
             greet('Jahnavi');
             greet();
-        </script>
-    </body>
-</html>
+       
