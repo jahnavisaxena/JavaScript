@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             
             function converToFarenheit(celcius){
                 return (celcius*9/5)+32;
@@ -23,7 +19,4 @@
             }
             convertTemperature(25,'C');
             convertTemperature(86,'F');
-            
-        </script>
-    </body>
-</html>
+    
