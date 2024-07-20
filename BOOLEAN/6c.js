@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             const hour = 11;
             let message='';
             const name='jahnavi'
@@ -16,6 +12,4 @@
                 message='Goodnight';
             }
             console.log(message);
-        </script>
-    </body>
-</html>
+
