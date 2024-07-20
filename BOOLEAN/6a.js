@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             const hour = 15;
             let message='';
             if(hour >= 6 && hour < 12){
@@ -15,6 +11,4 @@
                 message='Goodnight';
             }
             console.log(message);
-        </script>
-    </body>
-</html>
+
