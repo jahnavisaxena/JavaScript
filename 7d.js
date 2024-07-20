@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function converToFarenheit(celcius){
                 return (celcius*9/5)+32;
                 
             }
             console.log(converToFarenheit(25))
-        </script>
-    </body>
-</html>
+  
