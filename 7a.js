@@ -1,13 +1,7 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function greet(){
                 console.log('hello');
             }
             greet();
             greet();
-        </script>
-    </body>
-</html>
+       
