@@ -1,12 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function convertToCelcius(far){
                 return (far-32)*5/9;
             }
             console.log(convertToCelcius(86));
-        </script>
-    </body>
-</html>
+    
