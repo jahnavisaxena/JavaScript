@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head></head>
-    <body>
-        <script>
+
             function convertoMiles(km){
                 return km*1.6;
             }
@@ -25,6 +21,4 @@
             }
             console.log(convertLength(50,'miles','km'));
             console.log(convertLength(32,'km','miles'));
-        </script>
-    </body>
-</html>
+      
