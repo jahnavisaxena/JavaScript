@@ -7,5 +7,5 @@
    todoList.push(chore.value);
    console.log(todoList);
 
-   
+   chore.value = '';
   }
